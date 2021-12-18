@@ -1,3 +1,3 @@
 # HISTORIFY-TOOLS
 
-This code repo. contains useful toools that I developed for my graduation project.
+This code repo. contains useful tools that I developed for my graduate project.
